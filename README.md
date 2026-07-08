@@ -1,2 +1,2 @@
 # benchmark-ownership-dashboard
-Passive Ownership is not evenly distributed across the market. It is structurally highest in mega-cap benchmark constituents and certain sectors.
+An interatice dashboard and research project analyzing benchmark and passive ownership across U.S. equities using publicly available mutual fund and ETF holdings.
